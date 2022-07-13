@@ -3,6 +3,7 @@ body {
     background-color: rgb(0, 0, 0);
     color: white;
     flex-wrap: wrap;
+    text-align: center;
 }
 
 header {
